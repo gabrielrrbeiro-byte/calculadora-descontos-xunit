@@ -40,7 +40,7 @@ Total: 3 métodos `[Theory]` que geram 9 execuções de teste.
 Pré-requisito: [.NET SDK 10](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone https://github.com/mmoreiralopes8-sketch/calculadora-descontos-xunit.git
+gabrielrrbeiro-byte
 cd calculadora-descontos-xunit
 dotnet test
 ```
